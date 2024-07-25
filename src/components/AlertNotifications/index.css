@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.alert-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.notification-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 500px;
+}
+
+.notification-heading-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #2dca73;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 5px;
+}
+
+h1 {
+  margin-left: 18px;
+  font-size: 18px;
+}
+
+.icon {
+  height: 22px;
+  width: 22px;
+  font-weight: bold;
+}
+
+.icon2 {
+  color: #ff0b37;
+}
+
+.icon3 {
+  color: #ffb800;
+}
+
+.icon4 {
+  color: #0f81e0;
+}

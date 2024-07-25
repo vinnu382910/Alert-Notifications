@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.notification-button {
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 25px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  outline: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
